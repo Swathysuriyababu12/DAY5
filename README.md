@@ -2,6 +2,6 @@
 
 1.Function & return keyword
 2.types of function
-Anonymous function
-arrow function
-Immediately invoked functions
+    Anonymous function
+    arrow function
+   Immediately invoked functions
